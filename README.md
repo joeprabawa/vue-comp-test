@@ -1,5 +1,4 @@
-# client
-
+# Artist Voting App Using Vue Composition API & Typescript 
 ## Project setup
 ```
 npm install
