@@ -1,4 +1,5 @@
 # Artist Voting App Using Vue Composition API & Typescript 
+### Demo : https://spotifynode-14cb0.firebaseapp.com/
 ## Project setup
 ```
 npm install
